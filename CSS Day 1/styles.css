@@ -1,0 +1,115 @@
+
+body{
+    box-sizing:border-box;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1{
+    color:blue;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:center;
+    font-size:26px;
+}
+
+.box{
+    border:none;
+    width:400px;
+    padding:20px;
+    margin:auto auto;
+    border-radius:20px;
+    text-align:center;
+
+}
+.wimbledon{
+    border: none;
+    width: 400px;
+    padding: 40px 150px;
+    margin: auto auto;
+    border-radius: 20px;
+    text-align: center;
+    background-color:yellow;
+}
+
+.box-img{
+    width:100%;
+    border-radius:20px;
+}
+
+.bg{
+   width:400px;
+   background-color:orangered;
+   color:white;
+   margin:50px auto;
+   padding:100px 40px;
+   text-align:center;
+
+}
+
+.btn{
+    background-color:white;
+    border:none;
+    padding:14px 30px;
+    font-size:16px;
+    border-radius:40px;
+}
+
+.playerimage{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+}
+.playersprofiles{
+   display: flex; 
+   gap: 200px;
+   align-items:center;
+   text-align:center;
+
+} 
+
+.login{
+    width:400px;
+    margin:100px auto;
+    padding:16px;
+}
+
+.input{
+    width:100%;
+    margin-bottom:12px;
+    padding:10px;
+    box-sizing:border-box;
+    border-radius:12px;
+    font-size:16px;
+
+}
+
+
+.login-btn{
+   width:100%;
+   padding:16px;
+   font-size:16px;
+   border:none;
+   border-radius:12px;
+   background-color:black;
+   color:white;
+
+}
+
+.center{
+    text-align:center;
+}
+
+
+
+.card{
+  width:300px;
+  border-radius:14px;
+  padding:10px;
+  margin:50px auto;
+}
+
+.card-img{
+    width:100%;
+    border-top-left-radius:12px;
+    border-top-right-radius:14px;
+}
+
